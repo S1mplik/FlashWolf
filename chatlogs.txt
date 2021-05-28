@@ -1,0 +1,526 @@
+[Testování Temporary Voice Kanálů] | [verify] | [Danix25#8367] @ 2021-05-23 15:14:41.443000: !bal
+[Testování Temporary Voice Kanálů] | [verify] | [TemporaryVoice#2907] @ 2021-05-23 15:14:41.795000: 
+[Testování Temporary Voice Kanálů] | [verify] | [Danix25#8367] @ 2021-05-23 15:14:44.438000: !clear 100
+[Testování Temporary Voice Kanálů] | [verify] | [TemporaryVoice#2907] @ 2021-05-23 15:14:45.015000: Bylo smazáno **100** zpráv. Uživatelem **Danix25#8367**
+[Testování Temporary Voice Kanálů] | [verify] | [Danix25#8367] @ 2021-05-23 15:14:53.078000: !clear 9999999999999999999
+[Testování Temporary Voice Kanálů] | [verify] | [TemporaryVoice#2907] @ 2021-05-23 15:14:57.311000: Bylo smazáno **9999999999999999999** zpráv. Uživatelem **Danix25#8367**
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 15:15:22.267000: !help
+[Testování Temporary Voice Kanálů] | [mod-log] | [TemporaryVoice#2907] @ 2021-05-23 15:15:22.528000: 
+[Testování Temporary Voice Kanálů] | [mod-log] | [MEE6#4876] @ 2021-05-23 15:15:22.754000: 
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:05:40.555000: !giveaway 10 <@&845307860107788379>
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:05:40.555000: !giveaway 10 <@&845307860107788379>
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:05:53.680000: !giveaway
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:05:53.680000: !giveaway
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:06:07.778000: !giveaway 10s <@&845307860107788379>
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:06:07.778000: !giveaway 10s <@&845307860107788379>
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:07:01.839000: !giveaway 10s <@&845307860107788379>
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:07:01.839000: !giveaway 10s <@&845307860107788379>
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:07:05.509000: !giveaway
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:07:05.509000: !giveaway
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:07:41.987000: !giveaway 10 VIP
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:07:41.987000: !giveaway 10 VIP
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:17:23.830000: !gstart 10 nothing
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:17:23.830000: !gstart 10 nothing
+[Testování Temporary Voice Kanálů] | [mod-log] | [TemporaryVoice#2907] @ 2021-05-23 16:17:23.913000: 
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:45:24.524000: !gstart
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:45:24.524000: !gstart
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:45:27.695000: !giveaway
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:45:27.695000: !giveaway
+[Testování Temporary Voice Kanálů] | [mod-log] | [TemporaryVoice#2907] @ 2021-05-23 16:45:27.949000: Pojďme začít s nastavením soutěže. Budou ti položeny otázky a ty na ně musíš odpovědět do 15 vteřin
+[Testování Temporary Voice Kanálů] | [mod-log] | [TemporaryVoice#2907] @ 2021-05-23 16:45:27.949000: Pojďme začít s nastavením soutěže. Budou ti položeny otázky a ty na ně musíš odpovědět do 15 vteřin
+[Testování Temporary Voice Kanálů] | [mod-log] | [TemporaryVoice#2907] @ 2021-05-23 16:45:28.123000: Ve kterém kanálu chceš soutěž pořádat ?Jak dlouho bude trvat soutěž (s|m|h|d)O co se bude hrát (cena) ?
+[Testování Temporary Voice Kanálů] | [mod-log] | [TemporaryVoice#2907] @ 2021-05-23 16:45:28.123000: Ve kterém kanálu chceš soutěž pořádat ?Jak dlouho bude trvat soutěž (s|m|h|d)O co se bude hrát (cena) ?
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:45:38.604000: <#845559318727753768>
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:45:38.604000: <#845559318727753768>
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:47:18.170000: !giveaway
+[Testování Temporary Voice Kanálů] | [mod-log] | [TemporaryVoice#2907] @ 2021-05-23 16:47:18.388000: Pojďme začít s nastavením soutěže. Budou ti položeny otázky a ty na ně musíš odpovědět do 15 vteřin
+[Testování Temporary Voice Kanálů] | [mod-log] | [TemporaryVoice#2907] @ 2021-05-23 16:47:18.388000: Pojďme začít s nastavením soutěže. Budou ti položeny otázky a ty na ně musíš odpovědět do 15 vteřin
+[Testování Temporary Voice Kanálů] | [mod-log] | [TemporaryVoice#2907] @ 2021-05-23 16:47:18.641000: Ve kterém kanálu chceš soutěž pořádat ?
+[Testování Temporary Voice Kanálů] | [mod-log] | [TemporaryVoice#2907] @ 2021-05-23 16:47:18.641000: Ve kterém kanálu chceš soutěž pořádat ?
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:47:21.894000: <#845559318727753768>
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:47:21.894000: <#845559318727753768>
+[Testování Temporary Voice Kanálů] | [mod-log] | [TemporaryVoice#2907] @ 2021-05-23 16:47:22.133000: Jak dlouho bude trvat soutěž (s|m|h|d)
+[Testování Temporary Voice Kanálů] | [mod-log] | [TemporaryVoice#2907] @ 2021-05-23 16:47:22.133000: Jak dlouho bude trvat soutěž (s|m|h|d)
+[Testování Temporary Voice Kanálů] | [mod-log] | [MEE6#4876] @ 2021-05-23 16:47:22.255000: GG <@798816012027559936>, you just advanced to level 1!
+[Testování Temporary Voice Kanálů] | [mod-log] | [MEE6#4876] @ 2021-05-23 16:47:22.255000: GG <@798816012027559936>, you just advanced to level 1!
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:47:27.273000: 10s
+[Testování Temporary Voice Kanálů] | [mod-log] | [TemporaryVoice#2907] @ 2021-05-23 16:47:27.458000: O co se bude hrát (cena) ?
+[Testování Temporary Voice Kanálů] | [mod-log] | [TemporaryVoice#2907] @ 2021-05-23 16:47:27.458000: O co se bude hrát (cena) ?
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:47:32.861000: Nic
+[Testování Temporary Voice Kanálů] | [mod-log] | [Danix25#8367] @ 2021-05-23 16:47:32.861000: Nic
+[Testování Temporary Voice Kanálů] | [mod-log] | [TemporaryVoice#2907] @ 2021-05-23 16:47:33.119000: Soutěž proběhne v <#845559318727753768> v posledních 10s sekundách
+[Testování Temporary Voice Kanálů] | [mod-log] | [TemporaryVoice#2907] @ 2021-05-23 16:47:33.119000: Soutěž proběhne v <#845559318727753768> v posledních 10s sekundách
+[Testování Temporary Voice Kanálů] | [welcome] | [TemporaryVoice#2907] @ 2021-05-23 16:47:33.315000: 
+[Testování Temporary Voice Kanálů] | [welcome] | [TemporaryVoice#2907] @ 2021-05-23 16:47:44.255000: Gratuluji! <@798816012027559936> vyhrál Nic!
+[Testování Temporary Voice Kanálů] | [welcome] | [TemporaryVoice#2907] @ 2021-05-23 16:47:44.255000: Gratuluji! <@798816012027559936> vyhrál Nic!
+[Testování Temporary Voice Kanálů] | [welcome] | [Danix25#8367] @ 2021-05-23 16:49:29.228000: !reroll
+[Testování Temporary Voice Kanálů] | [welcome] | [Danix25#8367] @ 2021-05-23 16:49:29.228000: !reroll
+[Testování Temporary Voice Kanálů] | [welcome] | [Danix25#8367] @ 2021-05-23 16:55:37.454000: !help
+[Testování Temporary Voice Kanálů] | [welcome] | [Danix25#8367] @ 2021-05-23 16:55:37.454000: !help
+[Testování Temporary Voice Kanálů] | [welcome] | [TemporaryVoice#2907] @ 2021-05-23 16:55:37.588000: 
+[Testování Temporary Voice Kanálů] | [welcome] | [TemporaryVoice#2907] @ 2021-05-23 16:55:37.588000: 
+[Testování Temporary Voice Kanálů] | [welcome] | [Danix25#8367] @ 2021-05-23 17:29:57.473000: .new Ticket
+[Testování Temporary Voice Kanálů] | [welcome] | [Danix25#8367] @ 2021-05-23 17:29:57.473000: .new Ticket
+[Testování Temporary Voice Kanálů] | [welcome] | [Danix25#8367] @ 2021-05-23 17:30:02.277000: !new Ticket
+[Testování Temporary Voice Kanálů] | [welcome] | [Danix25#8367] @ 2021-05-23 17:30:02.277000: !new Ticket
+[Testování Temporary Voice Kanálů] | [welcome] | [Danix25#8367] @ 2021-05-23 17:30:42.186000: !new Ticket
+[Testování Temporary Voice Kanálů] | [welcome] | [Danix25#8367] @ 2021-05-23 17:30:42.186000: !new Ticket
+[Testování Temporary Voice Kanálů] | [ticket-1] | [TemporaryVoice#2907] @ 2021-05-23 17:30:43.192000: 
+[Testování Temporary Voice Kanálů] | [ticket-1] | [TemporaryVoice#2907] @ 2021-05-23 17:30:43.192000: 
+[Testování Temporary Voice Kanálů] | [welcome] | [TemporaryVoice#2907] @ 2021-05-23 17:30:43.312000: 
+[Testování Temporary Voice Kanálů] | [welcome] | [TemporaryVoice#2907] @ 2021-05-23 17:30:43.312000: 
+[Testování Temporary Voice Kanálů] | [ticket-1] | [Danix25#8367] @ 2021-05-23 17:32:19.200000: !close
+[Testování Temporary Voice Kanálů] | [ticket-1] | [Danix25#8367] @ 2021-05-23 17:32:19.200000: !close
+[Testování Temporary Voice Kanálů] | [ticket-1] | [TemporaryVoice#2907] @ 2021-05-23 17:32:19.485000: 
+[Testování Temporary Voice Kanálů] | [ticket-1] | [TemporaryVoice#2907] @ 2021-05-23 17:32:19.485000: 
+[Testování Temporary Voice Kanálů] | [ticket-1] | [Danix25#8367] @ 2021-05-23 17:32:22.041000: close
+[Testování Temporary Voice Kanálů] | [ticket-1] | [Danix25#8367] @ 2021-05-23 17:32:22.041000: close
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:32:34.201000: !new Nahlášení hráče
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:32:34.201000: !new Nahlášení hráče
+[Testování Temporary Voice Kanálů] | [ticket-2] | [TemporaryVoice#2907] @ 2021-05-23 17:32:34.923000: 
+[Testování Temporary Voice Kanálů] | [ticket-2] | [TemporaryVoice#2907] @ 2021-05-23 17:32:34.923000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 17:32:35.150000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 17:32:35.150000: 
+[Testování Temporary Voice Kanálů] | [ticket-2] | [Danix25#8367] @ 2021-05-23 17:32:49.204000: !addrole
+[Testování Temporary Voice Kanálů] | [ticket-2] | [Danix25#8367] @ 2021-05-23 17:32:49.204000: !addrole
+[Testování Temporary Voice Kanálů] | [ticket-2] | [TemporaryVoice#2907] @ 2021-05-23 17:32:49.504000: Neznámý příkaz
+[Testování Temporary Voice Kanálů] | [ticket-2] | [Danix25#8367] @ 2021-05-23 17:32:53.082000: !ping
+[Testování Temporary Voice Kanálů] | [ticket-2] | [Danix25#8367] @ 2021-05-23 17:32:53.082000: !ping
+[Testování Temporary Voice Kanálů] | [ticket-2] | [TemporaryVoice#2907] @ 2021-05-23 17:32:53.328000: Odezva: 135ms
+[Testování Temporary Voice Kanálů] | [ticket-2] | [TemporaryVoice#2907] @ 2021-05-23 17:32:53.328000: Odezva: 135ms
+[Testování Temporary Voice Kanálů] | [ticket-2] | [Danix25#8367] @ 2021-05-23 17:32:57.763000: !clear 100
+[Testování Temporary Voice Kanálů] | [ticket-2] | [Danix25#8367] @ 2021-05-23 17:32:57.763000: !clear 100
+[Testování Temporary Voice Kanálů] | [ticket-2] | [TemporaryVoice#2907] @ 2021-05-23 17:32:58.374000: Bylo smazáno **100** zpráv. Uživatelem **Danix25#8367**
+[Testování Temporary Voice Kanálů] | [ticket-2] | [TemporaryVoice#2907] @ 2021-05-23 17:32:58.374000: Bylo smazáno **100** zpráv. Uživatelem **Danix25#8367**
+[Testování Temporary Voice Kanálů] | [ticket-2] | [Danix25#8367] @ 2021-05-23 17:33:03.029000: !close
+[Testování Temporary Voice Kanálů] | [ticket-2] | [Danix25#8367] @ 2021-05-23 17:33:03.029000: !close
+[Testování Temporary Voice Kanálů] | [ticket-2] | [TemporaryVoice#2907] @ 2021-05-23 17:33:03.246000: 
+[Testování Temporary Voice Kanálů] | [ticket-2] | [TemporaryVoice#2907] @ 2021-05-23 17:33:03.246000: 
+[Testování Temporary Voice Kanálů] | [ticket-2] | [Danix25#8367] @ 2021-05-23 17:33:04.445000: close
+[Testování Temporary Voice Kanálů] | [ticket-2] | [Danix25#8367] @ 2021-05-23 17:33:04.445000: close
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:33:22.561000: !add <#845973180567912467> Byl jsi napálen
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 17:33:22.999000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 17:33:22.999000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 17:33:25.041000: Byl jsi napálen
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 17:33:25.250000: <@798816012027559936> registrace je dokončena.
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 17:33:25.250000: <@798816012027559936> registrace je dokončena.
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:36:48.872000: !help
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:36:48.872000: !help
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 17:36:49.071000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 17:36:49.071000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:13.832000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:13.832000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:14.293000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:14.293000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:14.609000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:14.609000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:14.935000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:14.935000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:15.137000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:15.137000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:15.405000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:15.405000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:15.807000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:15.807000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:16.017000: aa
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:16.163000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:16.163000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:16.463000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:23.976000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:23.976000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:24.223000: !level
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:24.223000: !level
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:53.151000: !level
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:53.151000: !level
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:58.514000: !levelleaderboard
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:41:58.514000: !levelleaderboard
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:42:01.558000: !help
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:42:01.558000: !help
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 17:42:01.801000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 17:42:01.801000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:42:04.300000: !meme
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:42:04.300000: !meme
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 17:42:05.599000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 17:42:05.599000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:59:06.210000: !play
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:59:06.210000: !play
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:59:22.054000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:59:22.054000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 17:59:22.562000: **Please Join A Voice Channel To Play Music**
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 17:59:22.562000: **Please Join A Voice Channel To Play Music**
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:59:29.903000: https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:59:29.903000: https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:59:35.613000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:59:35.613000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:59:46.271000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 17:59:46.425000: **Please Join A Voice Channel To Play Music**
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:59:46.271000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 17:59:46.425000: **Please Join A Voice Channel To Play Music**
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:59:59.083000: https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 17:59:59.083000: https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:00:01.935000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:00:01.935000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:05:38.517000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:05:38.517000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:05:38.726000: An error occurred: Command raised an exception: RuntimeError: PyNaCl library needed in order to use voice
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:05:38.726000: An error occurred: Command raised an exception: RuntimeError: PyNaCl library needed in order to use voice
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:06:22.720000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:06:22.720000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:06:22.914000: An error occurred: Command raised an exception: RuntimeError: PyNaCl library needed in order to use voice
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:06:22.914000: An error occurred: Command raised an exception: RuntimeError: PyNaCl library needed in order to use voice
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:07:44.382000: !join
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:07:44.382000: !join
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:07:44.571000: An error occurred: Command raised an exception: RuntimeError: PyNaCl library needed in order to use voice
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:07:44.571000: An error occurred: Command raised an exception: RuntimeError: PyNaCl library needed in order to use voice
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:09:21.296000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:09:21.572000: An error occurred: Command raised an exception: RuntimeError: PyNaCl library needed in order to use voice
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:09:21.572000: An error occurred: Command raised an exception: RuntimeError: PyNaCl library needed in order to use voice
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:15:48.858000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+YouTube
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:15:48.858000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+YouTube
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:15:49.154000: Neznámý příkaz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:15:49.154000: Neznámý příkaz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:16:06.619000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:16:06.619000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:16:06.881000: Neznámý příkaz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:16:06.881000: Neznámý příkaz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:16:11.757000: !play_song https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:16:12.080000: NOT AUTHORISED!
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:16:48.214000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:16:48.214000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:16:48.409000: Neznámý příkaz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:16:48.409000: Neznámý příkaz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:16:53.521000: !play_song https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:16:53.521000: !play_song https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:17:07.402000: The bot is not connected to a voice channel.
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:17:07.402000: The bot is not connected to a voice channel.
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:17:13.922000: !join
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:17:13.922000: !join
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:17:53.886000: !join <@!845350653659709491>
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:17:53.886000: !join <@!845350653659709491>
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:17:56.911000: !leave
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:17:59.991000: !stop
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:18:32.206000: join
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:18:32.206000: join
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:18:38.328000: !join
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:35:13.034000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:35:13.034000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:35:15.231000: The bot is not connected to a voice channel.
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:35:15.231000: The bot is not connected to a voice channel.
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:35:18.324000: !join
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:35:18.324000: !join
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:35:38.422000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:35:38.422000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:35:52.383000: The bot is not connected to a voice channel.
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:36:07.088000: !join
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:36:07.088000: !join
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:36:12.152000: !join_channel
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:36:12.429000: Neznámý příkaz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:36:12.429000: Neznámý příkaz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:37:37.080000: !play_song https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:37:37.080000: !play_song https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:37:37.385000: NOT AUTHORISED!
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:37:37.385000: NOT AUTHORISED!
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:37:53.458000: !join
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:38:40.784000: !play_song https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:38:40.784000: !play_song https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:38:55.327000: The bot is not connected to a voice channel.
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:38:55.327000: The bot is not connected to a voice channel.
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:39:00.350000: !join
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:40:52.443000: !join
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:40:52.443000: !join
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:40:58.337000: !join
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:40:58.337000: !join
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:41:00.386000: join
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:42:27.123000: !help
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:42:27.435000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:42:27.435000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:57:32.281000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:57:32.281000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:57:32.511000: I'm sorry but you need to be in a voice channel to play music!
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:57:32.511000: I'm sorry but you need to be in a voice channel to play music!
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:57:32.501000: Neznámý příkaz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:57:32.501000: Neznámý příkaz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:57:43.006000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:58:01.128000: I could not join the voice channel: Error [VOICE_CONNECTION_TIMEOUT]: Connection not established within 15 seconds.
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:58:09.001000: !join
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:58:11.549000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:59:29.550000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:59:31.468000: ✅ **Best Music Mix ♫ No Copyright EDM ♫ Gaming Music Trap, House, Dubstep** has been added to the queue!
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 18:59:40.410000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 18:59:42.999000: ✅ **Best Music Mix ♫ No Copyright EDM ♫ Gaming Music Trap, House, Dubstep** has been added to the queue!
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 19:00:12.682000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 19:01:03.361000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 19:01:07.960000: 🎶 Start playing: **Best Music Mix ♫ No Copyright EDM ♫ Gaming Music Trap, House, Dubstep**
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 19:01:26.560000: !volume 100
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 19:01:26.851000: I set the volume to: **100**
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 19:01:32.288000: !volume 50
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 19:01:32.482000: I set the volume to: **50**
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 19:01:44.485000: !volume 14
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 19:01:44.746000: I set the volume to: **14**
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 19:01:57.681000: !leav
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 19:01:59.981000: !leave
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 19:02:30.386000: !play gaming music
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 19:03:04.360000: !play !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 19:03:06.429000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 19:03:06.686000: <@798816012027559936>, please wait 3.1 more second(s) before reusing the `play` command.
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 19:03:14.497000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 19:03:17.356000: ✅ **Best Music Mix ♫ No Copyright EDM ♫ Gaming Music Trap, House, Dubstep** has been added to the queue!
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 19:03:24.031000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 19:03:26.084000: ✅ **Best Music Mix ♫ No Copyright EDM ♫ Gaming Music Trap, House, Dubstep** has been added to the queue!
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 19:03:46.342000: !play https://www.youtube.com/watch?v=LaQj636PJh0
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 19:03:50.475000: 🎶 Start playing: **Best Music Mix ♫ No Copyright EDM ♫ Gaming Music Trap, House, Dubstep**
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-23 19:04:20.953000: !np
+[Testování Temporary Voice Kanálů] | [reaction-role] | [TemporaryVoice#2907] @ 2021-05-23 19:04:21.284000: 🎶 Now playing: **Best Music Mix ♫ No Copyright EDM ♫ Gaming Music Trap, House, Dubstep**
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 04:54:19.197000: !help
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 04:54:19.409000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 04:57:05.019000: !help
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 04:57:05.291000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 04:57:22.175000: !mute <@!798816012027559936>
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 04:57:22.399000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 04:57:24.383000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 04:57:24.948000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 04:57:25.272000: a
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 04:57:31.019000: !unmute <@!798816012027559936>
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 04:57:31.150000: Neznámý příkaz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:02:40.107000: !work
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:02:40.313000: <@798816012027559936> získal si 66 peněz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:02:43.495000: !bal
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:02:43.690000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:02:48.321000: !work
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:02:48.545000: <@798816012027559936> získal si 64 peněz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:03:23.679000: !work
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:03:23.902000: <@798816012027559936> získal si 1 peněz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:03:27.572000: !work
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:03:27.788000: <@798816012027559936> získal si 1 peněz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:03:29.837000: !wk
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:03:30.022000: <@798816012027559936> získal si 1 peněz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:03:31.294000: "wk
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:03:32.654000: !wk
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:03:32.829000: <@798816012027559936> získal si 1 peněz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:03:34.157000: !wk
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:03:34.332000: <@798816012027559936> získal si 1 peněz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:03:37.179000: !wk
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:03:37.357000: <@798816012027559936> získal si 1 peněz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:03:39.510000: !bal
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:03:39.804000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:05:17.521000: !crime
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:05:17.695000: <@798816012027559936> ukradl si 388 peněz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:05:20.208000: !crime
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:05:20.388000: <@798816012027559936> ukradl si 341 peněz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:05:22.337000: !crime
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:05:22.518000: <@798816012027559936> ukradl si 387 peněz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:05:24.461000: !bal
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:05:24.645000: 
+[MaxWorld5] | [příchody-a-odchody-lidí] | [MEE6#4876] @ 2021-05-24 05:08:36.450000: Čau <@845350653659709491>, vítej na palubě.
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 05:09:28.158000: !help
+[MaxWorld5] | [ovládání-music-botů] | [Rythm#3722] @ 2021-05-24 05:09:28.268000: 
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 05:09:28.465000: 
+[MaxWorld5] | [ovládání-music-botů] | [MEE6#4876] @ 2021-05-24 05:09:28.755000: 
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 05:09:37.360000: !crime
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 05:09:37.549000: <@798816012027559936> ukradl si 137 peněz
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 05:09:39.483000: !crime
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 05:09:39.828000: <@798816012027559936> ukradl si 362 peněz
+[MaxWorld5] | [příchody-a-odchody-lidí] | [MEE6#0000] @ 2021-05-24 05:09:41.456000: 
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 05:09:43.618000: !work
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 05:09:43.818000: <@798816012027559936> získal si 1 peněz
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 05:09:45.515000: !bal
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 05:09:45.699000: 
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 05:09:57.970000: !serverinfo
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 05:09:58.178000: 
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 05:10:10.323000: !shop
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 05:10:10.528000: 
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 05:10:19.635000: !buy Hodinky
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 05:10:19.832000: Získal si 1 Hodinky
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 05:10:23.916000: !bag
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 05:10:24.105000: 
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 05:10:30.685000: !meme
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 05:10:31.710000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:21:22.475000: !send <@845350653659709491>  100
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:21:22.743000: <@798816012027559936> Dostal FlashWolf#2907 100 peněz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:21:45.183000: !bal <@845350653659709491>
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:21:45.312000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:22:01.504000: !withdraw 200
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:22:01.800000: Nemáš dostatek peněz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:22:11.444000: !deposit 200
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:22:11.636000: <@798816012027559936> Deposit 200 peněz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:22:16.895000: !bal
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:22:17.058000: 
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 05:23:01.701000: !bal
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 05:23:01.986000: 
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 05:23:09.700000: !crime
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 05:23:09.989000: <@798816012027559936> ukradl si 149 peněz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 05:23:16.348000: !bal
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 05:23:16.510000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 08:27:03.535000: !help
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 08:27:03.763000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 08:27:39.975000: !giveaway
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 08:27:40.198000: Pojďme začít s nastavením soutěže. Budou ti položeny otázky a ty na ně musíš odpovědět do 15 vteřin
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 08:27:40.374000: Ve kterém kanálu chceš soutěž pořádat ?
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 08:27:45.403000: <#845559318727753768>
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 08:27:45.591000: Jak dlouho bude trvat soutěž (s|m|h|d)
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 08:27:48.693000: 10s
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 08:27:48.952000: O co se bude hrát (cena) ?
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 08:27:53.882000: NIC
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 08:27:54.056000: Soutěž proběhne v <#845559318727753768> v posledních 10s sekundách
+[Testování Temporary Voice Kanálů] | [welcome] | [FlashWolf#2907] @ 2021-05-24 08:27:54.248000: 
+[Testování Temporary Voice Kanálů] | [welcome] | [FlashWolf#2907] @ 2021-05-24 08:28:06.471000: Gratuluji! <@798816012027559936> vyhrál NIC!
+[Testování Temporary Voice Kanálů] | [welcome] | [Danix25#8367] @ 2021-05-24 08:28:13.253000: !new Nahlaseni hrace
+[Testování Temporary Voice Kanálů] | [ticket-3] | [FlashWolf#2907] @ 2021-05-24 08:28:13.988000: 
+[Testování Temporary Voice Kanálů] | [welcome] | [FlashWolf#2907] @ 2021-05-24 08:28:14.291000: 
+[Testování Temporary Voice Kanálů] | [ticket-3] | [Danix25#8367] @ 2021-05-24 08:28:57.349000: !close
+[Testování Temporary Voice Kanálů] | [ticket-3] | [FlashWolf#2907] @ 2021-05-24 08:28:57.638000: 
+[Testování Temporary Voice Kanálů] | [ticket-3] | [Danix25#8367] @ 2021-05-24 08:29:03.931000: Close
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 08:29:14.331000: !work
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 08:29:14.568000: <@798816012027559936> získal si 1 peněz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 08:29:19.337000: !crime
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 08:29:19.557000: <@798816012027559936> ukradl si 156 peněz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 08:29:26.146000: !bal
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 08:29:26.362000: 
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 08:29:39.144000: !shop
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 08:29:40.066000: 
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:03:59.353000: !rob <@!798816012027559936>
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:03:59.706000: <@736295774232510504> okradl Danix25#8367 o 1101 peněz
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:04:06.068000: !crime
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:04:06.296000: <@736295774232510504> ukradl si 109 peněz
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:04:08.950000: !crime
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:04:09.099000: <@736295774232510504> ukradl si 259 peněz
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:04:11.960000: !crime
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:04:12.142000: <@736295774232510504> ukradl si 329 peněz
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:04:15.022000: !crime
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:04:15.198000: <@736295774232510504> ukradl si 357 peněz
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:04:17.849000: !crime
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:04:18.066000: <@736295774232510504> ukradl si 487 peněz
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:04:22.381000: !crime
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:04:22.592000: <@736295774232510504> ukradl si 465 peněz
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:04:28.564000: !crime
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:04:28.749000: <@736295774232510504> ukradl si 177 peněz
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:04:31.256000: !crime
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:04:31.375000: <@736295774232510504> ukradl si 159 peněz
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:04:33.687000: !crime
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:04:33.849000: <@736295774232510504> ukradl si 227 peněz
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:04:36.802000: !crime
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:04:37.011000: <@736295774232510504> ukradl si 267 peněz
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:04:40.721000: !crime
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:04:41.006000: <@736295774232510504> ukradl si 99 peněz
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:04:43.183000: !crime
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:04:43.316000: <@736295774232510504> ukradl si 87 peněz
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:04:46.388000: !crime
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:04:46.572000: <@736295774232510504> ukradl si 411 peněz
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:04:48.516000: !crime
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:04:48.735000: <@736295774232510504> ukradl si 185 peněz
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:04:52.049000: !crime
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:04:52.303000: <@736295774232510504> ukradl si 497 peněz
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:05:07.143000: !buy Hodinky
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:05:07.297000: Získal si 1 Hodinky
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:05:13.073000: !buy notebook
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:05:13.256000: Získal si 1 notebook
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:05:29.278000: !buy j
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:05:29.658000: Tento předmět zde není
+[MaxWorld5] | [ovládání-music-botů] | [EliteMaxX5#3083] @ 2021-05-24 09:05:44.776000: !bal
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 09:05:44.987000: 
+[MaxWorld5] | [příchody-a-odchody-lidí] | [MEE6#0000] @ 2021-05-24 09:07:11.361000: 
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:29:46.838000: !rob <@!736295774232510504>
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:29:47.156000: <@798816012027559936> okradl EliteMaxX5#3083 o 2293 peněz
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:29:52.501000: !rob <@!736295774232510504>
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:29:52.756000: <@798816012027559936> okradl EliteMaxX5#3083 o 889 peněz
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:30:00.692000: !rob <@!736295774232510504>
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:30:00.892000: <@798816012027559936> okradl EliteMaxX5#3083 o 541 peněz
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:30:01.774000: !rob <@!736295774232510504>
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:30:02.078000: <@798816012027559936> okradl EliteMaxX5#3083 o 178 peněz
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:30:02.921000: !rob <@!736295774232510504>
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:30:03.128000: <@798816012027559936> okradl EliteMaxX5#3083 o 59 peněz
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:30:03.864000: !rob <@!736295774232510504>
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:30:04.178000: <@798816012027559936> okradl EliteMaxX5#3083 o 55 peněz
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:30:04.912000: !rob <@!736295774232510504>
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:30:05.115000: <@798816012027559936> okradl EliteMaxX5#3083 o 19 peněz
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:30:05.992000: !rob <@!736295774232510504>
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:30:06.199000: Je zbytečné ho okrádat, když nemáš o co :(
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:30:29.511000: !work
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:30:29.756000: <@798816012027559936> získal si 1 peněz
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:30:32.578000: !crime
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:30:32.842000: <@798816012027559936> ukradl si 105 peněz
+[Testování Temporary Voice Kanálů] | [reaction-role] | [Danix25#8367] @ 2021-05-24 12:30:53.610000: !bal
+[Testování Temporary Voice Kanálů] | [reaction-role] | [FlashWolf#2907] @ 2021-05-24 12:30:53.783000: 
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:32:57.517000: !help
+[MaxWorld5] | [ovládání-music-botů] | [Rythm#3722] @ 2021-05-24 12:32:57.708000: 
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:32:57.787000: 
+[MaxWorld5] | [ovládání-music-botů] | [MEE6#4876] @ 2021-05-24 12:32:57.748000: 
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:33:08.633000: !slots 1000
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:33:08.879000: ['O', 'X', 'X']
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:33:09.134000: Vyhrál jsi :) <@798816012027559936>
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:33:13.148000: !bal
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:33:13.360000: 
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:33:51.075000: !slots 2000
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:33:51.380000: ['O', 'X', 'X']
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:33:51.696000: Vyhrál jsi :) <@798816012027559936>
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:34:00.110000: !slots 6000
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:34:00.323000: ['Q', 'O', 'Q']
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:34:01.172000: Vyhrál jsi :) <@798816012027559936>
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:34:09.125000: !slots 12000
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:34:09.318000: ['O', 'Q', 'O']
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:34:09.541000: Vyhrál jsi :) <@798816012027559936>
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:34:13.035000: !bal
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:34:13.236000: 
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:34:19.934000: !slots 46000
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:34:20.118000: ['X', 'Q', 'Q']
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:34:20.386000: Vyhrál jsi :) <@798816012027559936>
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:34:28.998000: !slots 70000
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:34:29.219000: ['X', 'O', 'X']
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:34:29.498000: Vyhrál jsi :) <@798816012027559936>
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:34:32.721000: !bal
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:34:32.985000: 
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:34:41.385000: !slots 270000
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:34:41.519000: ['O', 'X', 'O']
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:34:41.837000: Vyhrál jsi :) <@798816012027559936>
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:34:47.755000: !slots 500000
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:34:48.005000: ['O', 'X', 'Q']
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:34:48.241000: Prohrál si :( <@798816012027559936>
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:34:51.558000: !slots
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:34:51.738000: Zadej částku
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:34:55.672000: !bak
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:34:55.874000: Neznámý příkaz
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:34:57.637000: !bal
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:34:57.839000: 
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:35:07.920000: !slots 300000
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:35:08.147000: ['X', 'X', 'O']
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:35:08.469000: Vyhrál jsi :) <@798816012027559936>
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:35:13.604000: !slots 500000
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:35:13.803000: ['O', 'Q', 'O']
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:35:14.328000: Vyhrál jsi :) <@798816012027559936>
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:35:19.986000: !slots 1000000
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:35:20.210000: ['Q', 'X', 'X']
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:35:20.451000: Vyhrál jsi :) <@798816012027559936>
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:35:24.003000: !bal
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:35:24.217000: 
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:35:44.331000: !slots 3000000
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:35:44.677000: ['Q', 'O', 'X']
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:35:44.994000: Prohrál si :( <@798816012027559936>
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:35:47.931000: !slots
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:35:48.118000: Zadej částku
+[MaxWorld5] | [ovládání-music-botů] | [Danix25#8367] @ 2021-05-24 12:35:50.929000: !bal
+[MaxWorld5] | [ovládání-music-botů] | [FlashWolf#2907] @ 2021-05-24 12:35:51.125000: 
+[MaxWorld5] | [memes] | [Danix25#8367] @ 2021-05-24 12:36:58.280000: !meme
+[MaxWorld5] | [memes] | [FlashWolf#2907] @ 2021-05-24 12:36:59.318000: 
+[MaxWorld5] | [memes] | [Danix25#8367] @ 2021-05-24 12:37:24.948000: !meme
+[MaxWorld5] | [memes] | [FlashWolf#2907] @ 2021-05-24 12:37:26.066000: 
+[MaxWorld5] | [memes] | [Danix25#8367] @ 2021-05-24 12:37:29.287000: !meme
+[MaxWorld5] | [memes] | [FlashWolf#2907] @ 2021-05-24 12:37:30.283000: 
+[MaxWorld5] | [flashwolf-příkazy] | [Danix25#8367] @ 2021-05-24 12:37:39.092000: !help
+[MaxWorld5] | [flashwolf-příkazy] | [FlashWolf#2907] @ 2021-05-24 12:37:39.266000: 
+[MaxWorld5] | [flashwolf-příkazy] | [Rythm#3722] @ 2021-05-24 12:37:39.336000: 
+[MaxWorld5] | [flashwolf-příkazy] | [MEE6#4876] @ 2021-05-24 12:37:39.325000: 
+[MaxWorld5] | [flashwolf-příkazy] | [Danix25#8367] @ 2021-05-24 12:37:45.183000: !kick
+[MaxWorld5] | [flashwolf-příkazy] | [Danix25#8367] @ 2021-05-24 12:37:48.291000: !ban
+[MaxWorld5] | [flashwolf-příkazy] | [Danix25#8367] @ 2021-05-24 12:38:53.579000: !add <#792746192793894914> https://www.youtube.com/watch?v=CJ1W-5P9xg0
+[MaxWorld5] | [flashwolf-příkazy] | [FlashWolf#2907] @ 2021-05-24 12:38:54.231000: <@798816012027559936> abyste mohli používat tento příkaz, musíte být administrátorem serveru.
+[MaxWorld5] | [flashwolf-příkazy] | [MEE6#4876] @ 2021-05-24 12:38:55.416000: <:CHECK6:403540120181145611> **jebaited  česky. 30min verze** successfully added!
+[MaxWorld5] | [flashwolf-příkazy] | [Danix25#8367] @ 2021-05-24 12:39:12.801000: !clear 100
+[MaxWorld5] | [flashwolf-příkazy] | [Rythm#3722] @ 2021-05-24 12:39:13.109000: <:x2:814990341052432435> **You have to be in a voice channel to use this command.**
+[MaxWorld5] | [flashwolf-příkazy] | [MEE6#4876] @ 2021-05-24 12:39:13.175000: <:XMARK6:403540169992568833> **Danix25**, you can't use that.
+[MaxWorld5] | [flashwolf-příkazy] | [FlashWolf#2907] @ 2021-05-24 12:39:13.297000: Bylo smazáno **100** zpráv. Uživatelem **Danix25#8367**
+[MaxWorld5] | [flashwolf-příkazy] | [Danix25#8367] @ 2021-05-24 12:39:56.795000: !help
+[MaxWorld5] | [flashwolf-příkazy] | [Rythm#3722] @ 2021-05-24 12:39:57.061000: 
+[MaxWorld5] | [flashwolf-příkazy] | [MEE6#4876] @ 2021-05-24 12:39:57.029000: 
+[MaxWorld5] | [flashwolf-příkazy] | [FlashWolf#2907] @ 2021-05-24 12:39:57.087000: 
