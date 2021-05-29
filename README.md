@@ -31,3 +31,4 @@ Create react message (very easy)
 !bot (All stats for bot)
 
  
+https://upload.hicoria.com/files/TyZTap7N.png
