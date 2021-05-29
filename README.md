@@ -30,4 +30,4 @@ Create react message (very easy)
 ## Information
 !bot (All stats for bot)
 
-![help command](https://upload.hicoria.com/files/anM7m9Rh.png)
+![Icon](https://upload.hicoria.com/files/B6n9TwMD.png)
