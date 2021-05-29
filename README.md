@@ -1,41 +1,33 @@
 ### FlashWolf
 
 ## Economy
-
-# Economy Bot => For Everyone
-# !deposit
-# !withdraw
-# !rob
-# !crime
-# !work
-# !shop
-# !buy
-# !sell
-# !bag
-# !beg
+!deposit
+!withdraw
+!rob
+!crime
+!work
+!shop
+!buy
+!sell
+!bag
+!beg
 
 
 ## Voice Channels
-
-# Activate click channels to create temporary voice
-# Manual is on czech
+Activate click channels to create temporary voice
+Manual is on czech
 
 ## Normal Moderate Commands
-
-# !clear
-# !ban
-# !mute
-# !unban
+!clear
+!ban
+!mute
+!unban
 
 
 ## ReactionMessage
-
-# Create react message (very easy)
-
+Create react message (very easy)
 
 ## Information
-
-
-# !bot (All stats for bot)
+!bot (All stats for bot)
 
  
